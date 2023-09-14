@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-public class DeclarativeBubbleSort {
+public class Task002 {
 
     public static List<Integer> bubbleSort(List<Integer> arr) {
         if (arr.isEmpty()) {
